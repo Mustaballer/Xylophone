@@ -9,7 +9,10 @@ class XylophoneApp extends StatelessWidget {
     return MaterialApp(
       home: Scaffold(
         body: SafeArea(
-          child: Center(child: Text(adjectives.first)),
+          child: Padding(
+            padding: const EdgeInsets.all(8.0),
+            child: Center(child: Text(adjectives.first)),
+          ),
         ),
       ),
     );
