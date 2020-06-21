@@ -3,18 +3,18 @@
 
 # Xylophone 🎹
 
-## Our Goal
+## My Goal
 
-In this tutorial we will be diving into more Dart programming concepts and learning how to use open source Flutter packages. By the end of this module, you should be comfortable using Flutter packages and building repeated widgets.
+In this tutorial I will be diving into more Dart programming concepts and learning how to use open source Flutter packages. By the end of this module, I should be comfortable using Flutter packages and building repeated widgets.
 
 
-## What you will create
+## What I will create
 
-We’re going to make a music app that plays Xylophone sounds. For every Beethoven out there, this will let you unleash your musical talent where ever you are. 
+I am going to make a music app that plays Xylophone sounds. For every Beethoven out there, this will let you unleash your musical talent where ever you are. 
 
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/xylophone-flutter.png)
 
-## What you will learn
+## What I will learn
 
 - How to incorporate open source libraries of code into your project using Flutter Packages.
 - How to play sound on both iOS and Android.
